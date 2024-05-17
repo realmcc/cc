@@ -2,7 +2,7 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://coffeebank.github.io"
-baseurl: "/"
+baseurl: ""
 siteIcon: /media/icon.webp
 siteYear: 2024
 siteFooterlink: /about
