@@ -1,8 +1,8 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://cookicraft.mccreal.ovh"
-baseurl: "/"
+url: "https://realmcc.github.io"
+baseurl: "/cc"
 siteIcon: /media/icon.webp
 siteYear: 2024
 siteFooterlink: /about
