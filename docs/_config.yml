@@ -11,7 +11,7 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Cookicraft Network
+serverName: CookiCraft Servernetzwerk
 serverDescription: Das beste deutsche Netzwerk!
 serverIP: cookicraft.de
 useBedrockForOnlineStatus: false
