@@ -11,16 +11,16 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Cookicraft Network
+serverDescription: Das beste deutsche Netzwerk!
+serverIP: cookicraft.de
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/UuRGFtw3wN
+discordServerID: 1225021379292954755
+discordChannelID: 1225025730660794449
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
